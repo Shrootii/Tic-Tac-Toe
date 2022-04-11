@@ -7,7 +7,8 @@
    integer 1 and 2 are the valid input options.
    rest all will be considered as invalid and the program will terminate.
 
-3. single player- against computer version
+3. single player- against computer version. The computer uses minimax algo 
+   to optimize its move and increase chances if winning.
 
 4. As per the chosen mode, first turn will be of player 1 (X) and 
    the next turn will be either player 2(O) in which the input will be taken
